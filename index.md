@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Here is a site with a prebuilt theme
 
 You can use the [editor on GitHub](https://github.com/ngojenny/prebuilt-themes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
